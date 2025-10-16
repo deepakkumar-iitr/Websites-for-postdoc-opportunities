@@ -1,4 +1,4 @@
-# Websites-for-postdoc-opportunities
+<img width="606" height="491" alt="image" src="https://github.com/user-attachments/assets/b032b504-f5ab-4f62-9d60-ae0634a73a42" /># Websites-for-postdoc-opportunities
 A centralized repository compiling useful links and platforms that advertise postdoctoral fellowships, research positions, and academic job opportunities worldwide.
 1. Euraxess: https://euraxess.ec.europa.eu/
 2. Nature careers: https://www.nature.com/naturecareers/
@@ -46,7 +46,7 @@ A centralized repository compiling useful links and platforms that advertise pos
 36. Leibniz association postdoc: https://lnkd.in/g3PiFmrv
 37. ETH Zurich postdoc: https://lnkd.in/g5vxa4VV
 
-## 🇦🇺🇳🇿Australia and New Zealand
+## 🇦🇺🇳🇿 Australia and New Zealand
 38. Australian Research Council (ARC): https://lnkd.in/gMRpReZY
 39. University of Sydney postdoc: https://lnkd.in/gjmu5SR9
 40. University of Melbourne postdoc: https://lnkd.in/g2B3J4Yg
