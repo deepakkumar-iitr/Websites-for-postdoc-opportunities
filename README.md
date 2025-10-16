@@ -1,4 +1,4 @@
-<img width="606" height="491" alt="image" src="https://github.com/user-attachments/assets/b032b504-f5ab-4f62-9d60-ae0634a73a42" /># Websites-for-postdoc-opportunities
+# Websites-for-postdoc-opportunities
 A centralized repository compiling useful links and platforms that advertise postdoctoral fellowships, research positions, and academic job opportunities worldwide.
 1. Euraxess: https://euraxess.ec.europa.eu/
 2. Nature careers: https://www.nature.com/naturecareers/
