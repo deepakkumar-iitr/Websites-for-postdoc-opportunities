@@ -3,15 +3,15 @@ A centralized repository compiling useful links and platforms that advertise pos
 1. Euraxess: https://euraxess.ec.europa.eu/
 2. Nature careers: https://www.nature.com/naturecareers/
 3. ResearchGate: https://www.researchgate.net/jobs
-4. FindAPostDoc: https://lnkd.in/gadznjrJ
-5. Academic positions: https://lnkd.in/gKfjZy9K
-6. PostdocJobs: https://lnkd.in/gc4sJC4R
-7. Scholarship positions: https://lnkd.in/gtQ2KjXN
+4. FindAPostDoc: https://www.findapostdoc.com/#google_vignette
+5. Academic positions: https://academicpositions.com/
+6. PostdocJobs: https://www.postdocjobs.com/
+7. Scholarship positions: https://scholarship-positions.com/
 ---
 ## USA
-8. NIH Office of Intramural training & education: https://lnkd.in/gN8iwysw
-9. NSF Postdoctoral research fellowships: https://lnkd.in/gn3ytcaT
-10. Science careers: https://lnkd.in/gjfakgcd
+8. NIH Office of Intramural training & education: https://www.training.nih.gov/research-training/pd/
+9. NSF Postdoctoral research fellowships: https://www.nsf.gov/funding/opportunities/rui-roa-pui-facilitating-research-predominantly-undergraduate
+10. Science careers: https://jobs.sciencecareers.org/
 11. Postdoc Harvard: https://lnkd.in/gm8FSV4v
 12. Stanford postdoc: https://lnkd.in/g2M7-eci
 13. Berkeley postdoc: https://lnkd.in/gHGB7pXw
@@ -62,3 +62,4 @@ A centralized repository compiling useful links and platforms that advertise pos
 ## Middle East
 47. Qatar National Research Fund (QNRF): https://lnkd.in/gHjgyPvd
 48. King Abdullah University of Science and Technology (KAUST) postdocs: https://lnkd.in/gYc2kmz5
+49. American University of Sharjah (AUS) postdoc
