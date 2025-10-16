@@ -8,7 +8,7 @@ A centralized repository compiling useful links and platforms that advertise pos
 6. PostdocJobs: https://www.postdocjobs.com/
 7. Scholarship positions: https://scholarship-positions.com/
 ---
-## USA
+## 🇺🇸 USA
 8. NIH Office of Intramural training & education: https://www.training.nih.gov/research-training/pd/
 9. NSF Postdoctoral research fellowships: https://www.nsf.gov/funding/opportunities/rui-roa-pui-facilitating-research-predominantly-undergraduate
 10. Science careers: https://jobs.sciencecareers.org/
@@ -21,14 +21,14 @@ A centralized repository compiling useful links and platforms that advertise pos
 17. Johns Hopkins postdoctoral: https://postdoc.jhu.edu/
 18. Cornell University postdoctoral: https://lnkd.in/gj8Tmvkr
 
-## Canada
+## 🇨🇦 Canada
 19. Canadian Association of postdoc (CAPS): https://www.caps-acsp.ca/
 20. Banting postdoctoral fellowships: https://lnkd.in/gMEwsHjU
 21. Mitacs Elevate postdoctoral fellowship: https://lnkd.in/g6M-8TxS
 22. University of Toronto postdoc fellowships: https://lnkd.in/g_s2yzbp
 23. UBC postdoc: https://lnkd.in/gNrw4jjq
 
-## UK
+## 🇬🇧 UK
 24. UK Research and Innovation (UKRI): https://www.ukri.org/who-we-are/work-for-us/find-and-apply-for-a-job/
 25. The Royal Society fellowships: https://royalsociety.org/grants/
 26. Marie Skłodowska-Curie Actions (MSCA): https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships_en
@@ -46,7 +46,7 @@ A centralized repository compiling useful links and platforms that advertise pos
 36. Leibniz association postdoc: https://lnkd.in/g3PiFmrv
 37. ETH Zurich postdoc: https://lnkd.in/g5vxa4VV
 
-## Australia and New Zealand
+## 🇦🇺🇳🇿Australia and New Zealand
 38. Australian Research Council (ARC): https://lnkd.in/gMRpReZY
 39. University of Sydney postdoc: https://lnkd.in/gjmu5SR9
 40. University of Melbourne postdoc: https://lnkd.in/g2B3J4Yg
