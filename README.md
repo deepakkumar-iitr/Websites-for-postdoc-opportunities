@@ -29,35 +29,36 @@ A centralized repository compiling useful links and platforms that advertise pos
 23. UBC postdoc: https://lnkd.in/gNrw4jjq
 
 ## UK
-24. UK Research and Innovation (UKRI): https://lnkd.in/gHTR-hRm 
-25. The Royal Society fellowships: https://lnkd.in/gMCdvBhC
-26. Marie Skłodowska-Curie Actions (MSCA): https://lnkd.in/g3_68yNG
-27. Wellcome Trust fellowships: https://lnkd.in/gcSt5p8C
-28. Oxford University postdoc: https://lnkd.in/gfUFMvV8
+24. UK Research and Innovation (UKRI): https://www.ukri.org/who-we-are/work-for-us/find-and-apply-for-a-job/
+25. The Royal Society fellowships: https://royalsociety.org/grants/
+26. Marie Skłodowska-Curie Actions (MSCA): https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships_en
+27. Wellcome Trust fellowships: https://wellcome.org/research-funding/schemes
+28. Oxford University postdoc: https://www.ox.ac.uk/about/jobs/research
 29. Cambridge University postdoc: https://lnkd.in/gcHnUZPJ
+30. Jobs in UK: https://www.jobs.ac.uk/
 
 ## Europe 
-30. European molecular biology: https://lnkd.in/g6J43XVP
-31. Max Planck Society postdocs: https://lnkd.in/gkXRjAXm
-32. Helmholtz association postdoc: https://lnkd.in/gkNcYj-s
-33. CERN Fellowship programme: https://lnkd.in/gZGRX352
-34. EPFL postdoc: https://lnkd.in/ggNYHWAH
-35. Leibniz association postdoc: https://lnkd.in/g3PiFmrv
-36. ETH Zurich postdoc: https://lnkd.in/g5vxa4VV
+31. European molecular biology: https://lnkd.in/g6J43XVP
+32. Max Planck Society postdocs: https://lnkd.in/gkXRjAXm
+33. Helmholtz association postdoc: https://lnkd.in/gkNcYj-s
+34. CERN Fellowship programme: https://lnkd.in/gZGRX352
+35. EPFL postdoc: https://lnkd.in/ggNYHWAH
+36. Leibniz association postdoc: https://lnkd.in/g3PiFmrv
+37. ETH Zurich postdoc: https://lnkd.in/g5vxa4VV
 
 ## Australia and New Zealand
-37. Australian Research Council (ARC): https://lnkd.in/gMRpReZY
-38. University of Sydney postdoc: https://lnkd.in/gjmu5SR9
-39. University of Melbourne postdoc: https://lnkd.in/g2B3J4Yg
-40. University of Queensland postdocs: https://lnkd.in/gxQi4VPc
-41. University of Auckland postdocs: https://lnkd.in/gHrdXFHJ
+38. Australian Research Council (ARC): https://lnkd.in/gMRpReZY
+39. University of Sydney postdoc: https://lnkd.in/gjmu5SR9
+40. University of Melbourne postdoc: https://lnkd.in/g2B3J4Yg
+41. University of Queensland postdocs: https://lnkd.in/gxQi4VPc
+42. University of Auckland postdocs: https://lnkd.in/gHrdXFHJ
 
 ## Asia
-42. Japan Society (JSPS) postdoc: https://lnkd.in/ggk4CBzZ
-43. National University of Singapore (NUS): https://lnkd.in/gVsf4SpD
-44. Chinese Academy of Sciences (CAS): https://lnkd.in/gPNN7j_P
-45. Indian Institute of Science (IISc) postdoc: https://lnkd.in/gtx8eHfp
+43. Japan Society (JSPS) postdoc: https://lnkd.in/ggk4CBzZ
+44. National University of Singapore (NUS): https://lnkd.in/gVsf4SpD
+45. Chinese Academy of Sciences (CAS): https://lnkd.in/gPNN7j_P
+46. Indian Institute of Science (IISc) postdoc: https://lnkd.in/gtx8eHfp
 
 ## Middle East
-46. Qatar National Research Fund (QNRF): https://lnkd.in/gHjgyPvd
-47. King Abdullah University of Science and Technology (KAUST) postdocs: https://lnkd.in/gYc2kmz5
+47. Qatar National Research Fund (QNRF): https://lnkd.in/gHjgyPvd
+48. King Abdullah University of Science and Technology (KAUST) postdocs: https://lnkd.in/gYc2kmz5
