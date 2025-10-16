@@ -1,8 +1,8 @@
 # Websites-for-postdoc-opportunities
 A centralized repository compiling useful links and platforms that advertise postdoctoral fellowships, research positions, and academic job opportunities worldwide.
-1. Euraxess: [https://lnkd.in/gV4_aEKi](https://euraxess.ec.europa.eu/)
-2. Nature careers: https://lnkd.in/gBAJYGuh
-3. ResearchGate: https://lnkd.in/gBKNn4-w
+1. Euraxess: https://euraxess.ec.europa.eu/
+2. Nature careers: https://www.nature.com/naturecareers/
+3. ResearchGate: https://www.researchgate.net/jobs
 4. FindAPostDoc: https://lnkd.in/gadznjrJ
 5. Academic positions: https://lnkd.in/gKfjZy9K
 6. PostdocJobs: https://lnkd.in/gc4sJC4R
